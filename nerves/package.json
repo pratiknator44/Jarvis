@@ -1,0 +1,27 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pratik",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assemblyai": "^4.9.0",
+    "axios": "^1.8.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "dotnet": "^1.1.4",
+    "elevenlabs": "^1.57.0",
+    "express": "^5.1.0",
+    "expressjs": "^1.0.1",
+    "formidable": "^3.5.3",
+    "mongoose": "^8.13.2",
+    "multer": "^1.4.5-lts.2",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.3.93"
+  }
+}
